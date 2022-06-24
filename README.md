@@ -1,4 +1,7 @@
 ### OlA ! sou o Hit 🖖
+Desenvolvedor de Software
+<br>
+Estou sempre em busca de novos conhecimentos. Estudo programação desde 2021, desde então, venho criando projetos pessoais e profissionais, nos quais acabo pondo em prática todos os conhecimentos que adquiro. Atualmente estou focando meus estudos na linguagem Java, em conjunto com as outras linguagem utilizadas por um desenvolvedor de software. Desenvolvo sempre pensando na experiência do usuário, focando na responsividade dos software.
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]()
 [![GITHUB](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)]()
@@ -9,8 +12,10 @@
 [![outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)]()
 
 ## Stats
-
+✿ஜீ۞ஜீ✿•.¸¸.•*`*•.•ஜீ☼۞☼ஜீ•.•*`*•.¸¸.•✿ஜீ۞ஜீ✿
+<br>
 ![Hit GitHub stats](https://github-readme-stats.vercel.app/api?username=hit0hit&show_icons=true&theme=radical)
+<br>
 ✿ஜீ۞ஜீ✿•.¸¸.•*`*•.•ஜீ☼۞☼ஜீ•.•*`*•.¸¸.•✿ஜீ۞ஜீ✿ 
 
 ## Tecnologias que uso 🧑‍💻
@@ -23,8 +28,31 @@
 <img align="center" alt="html5" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 <img align="center" alt="html5" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
 <img align="center" alt="html5" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-
-
+<br>
+C:
+<br>
+Aprendi o básico da linguagem de programação C, com também fiz dois projeto em C, um deles foi um seminário e o outro foi programar um supermercado completamente em C.
+<br>
+<br>
+java:
+<br>
+Sobre java aprendi o básico como: POO (Programação Orientados a Objetos) Objeto (Object), ArrayList, matriz, vector etc…, 
+<br>
+<br>
+SQL, banco de dados ,estrutura de dados:
+<br>
+Bom o banco de dados aprendi o básico como; SQL, busca Binária e sequencial, etc…,
+<br>
+<br>
+lógica de programação:
+<br>
+Compreendi totalmente a lógica de programação, caso precise de outra linguagem de programação eu aprendo rápido, pois pra mim a maioria das linguagem são iguais.
+<br>
+<br>
+HTML e Js javascript:
+<br>
+Estou estudando html e Js já sei o básico dos dois, ainda não comecei a estudar CSS pois quero compreender totalmente o js com html primeiro.
+<br>
 </div>
 
  
@@ -46,5 +74,5 @@ CARREGANDO██████████████] 91.9%
 
 ### LOL
 <div align="center">
-<img src="https://user-images.githubusercontent.com/89605089/170164694-2e5e37f5-1a4e-467a-b54f-a1fa1745ded4.gif" width="700px" />
+<img src="https://user-images.githubusercontent.com/89605089/170164694-2e5e37f5-1a4e-467a-b54f-a1fa1745ded4.gif" width="300" />
 </div>
