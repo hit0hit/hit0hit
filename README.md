@@ -1,7 +1,7 @@
-### OlA ! sou o Hit 🖖
+### OlA ! sou o Henrique 🖖
 Desenvolvedor de Software
 <br>
-Estou sempre em busca de novos conhecimentos. Estudo programação desde 2021, desde então, venho criando projetos pessoais e profissionais, nos quais acabo pondo em prática todos os conhecimentos que adquiro. Atualmente estou focando meus estudos na linguagem Java, em conjunto com as outras linguagem utilizadas por um desenvolvedor de software. Desenvolvo sempre pensando na experiência do usuário, focando na responsividade dos software.
+Estou sempre em busca de novos conhecimentos. Estudo programação desde 2020, desde então, venho criando projetos pessoais e profissionais, nos quais acabo pondo em prática todos os conhecimentos que adquiro. Atualmente estou focando meus estudos na linguagem Java, em conjunto com as outras linguagem utilizadas por um desenvolvedor de software. Desenvolvo sempre pensando na experiência do usuário, focando na responsividade dos software.
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]()
 [![GITHUB](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)]()
