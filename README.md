@@ -1,7 +1,8 @@
-### OlA ! sou o Henrique 🖖
-Desenvolvedor de Software
-<br>
-Estou sempre em busca de novos conhecimentos. Estudo programação desde 2020, desde então, venho criando projetos pessoais e profissionais, nos quais acabo pondo em prática todos os conhecimentos que adquiro. Atualmente estou focando meus estudos na linguagem Java, em conjunto com as outras linguagem utilizadas por um desenvolvedor de software. Desenvolvo sempre pensando na experiência do usuário, focando na responsividade dos software.
+### OLA ! sou o Henrique 🖖
+#### Analista de dados
+Estou sempre em busca de novos conhecimentos. Estudo programação desde 2020, desde
+então, venho criando projetos pessoais e profissionais, nos quais acabo pondo em prática
+todos os conhecimentos que adquiro. Atualmente estou focando meus estudos na linguagem.
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]()
 [![GITHUB](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)]()
@@ -11,7 +12,7 @@ Estou sempre em busca de novos conhecimentos. Estudo programação desde 2020, d
 [![telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)]()
 [![outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)]()
 
-## Stats
+## Status
 ✿ஜீ۞ஜீ✿•.¸¸.•*`*•.•ஜீ☼۞☼ஜீ•.•*`*•.¸¸.•✿ஜீ۞ஜீ✿
 <br>
 ![Hit GitHub stats](https://github-readme-stats.vercel.app/api?username=hit0hit&show_icons=true&theme=radical)
@@ -19,7 +20,6 @@ Estou sempre em busca de novos conhecimentos. Estudo programação desde 2020, d
 ✿ஜீ۞ஜீ✿•.¸¸.•*`*•.•ஜீ☼۞☼ஜீ•.•*`*•.¸¸.•✿ஜீ۞ஜீ✿ 
 
 ## Tecnologias que uso 🧑‍💻
-◤◢◣◥▄▄▄▄▞◢◣▚▄▄▄▄◤◢◣◥
 <div style="display: inline_block"><br/>
 <img align="center" alt="html5" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
 <img align="center" alt="html5" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
@@ -29,9 +29,14 @@ Estou sempre em busca de novos conhecimentos. Estudo programação desde 2020, d
 <img align="center" alt="html5" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
 <img align="center" alt="html5" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 <br>
-C:
+ 
+# Principais Competências<br>
+❖ SQL, PL/SQL, Expressão, banco de dados ,estrutura de dados.<br>
+Destaco meu sólido domínio em SQL, evidenciando não apenas conhecimento aprofundado, mas também a capacidade de aplicar conceitos de forma prática e eficaz. Além disso, demonstro proficiência em várias técnicas avançadas de manipulação de dados. 
 <br>
-Aprendi o básico da linguagem de programação C, com também fiz dois projeto em C, um deles foi um seminário e o outro foi programar um supermercado completamente em C.
+# Habilidades Adicionais<br>
+ C, Python.<br>
+Aprendi o básico da linguagem de programação Python, bem como adquiri experiência prática em C, realizando dois projetos notáveis. Um deles consistiu na apresentação de um seminário, enquanto o outro envolveu a programação completa de um supermercado em linguagem C. 
 <br>
 <br>
 java:
@@ -39,19 +44,13 @@ java:
 Sobre java aprendi o básico como: POO (Programação Orientados a Objetos) Objeto (Object), ArrayList, matriz, vector etc…, 
 <br>
 <br>
-SQL, banco de dados ,estrutura de dados:
-<br>
-Bom o banco de dados aprendi o básico como; SQL, busca Binária e sequencial, etc…,
-<br>
-<br>
 lógica de programação:
 <br>
 Compreendi totalmente a lógica de programação, caso precise de outra linguagem de programação eu aprendo rápido, pois pra mim a maioria das linguagem são iguais.
 <br>
 <br>
-HTML e Js javascript:
-<br>
-Estou estudando html e Js já sei o básico dos dois, ainda não comecei a estudar CSS pois quero compreender totalmente o js com html primeiro.
+ HTML e CSS.<br>
+Estou estudando html e CSS já sei o básico dos dois, ainda não comecei a estudar Js javascript pois quero compreender totalmente o js com html primeiro.
 <br>
 </div>
 
