@@ -1,4 +1,4 @@
-### OLA ! sou o Henrique 🖖
+
 #### Analista de dados
 Estou sempre em busca de novos conhecimentos. Estudo programação desde 2020, desde
 então, venho criando projetos pessoais e profissionais, nos quais acabo pondo em prática
