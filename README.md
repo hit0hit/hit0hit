@@ -1,4 +1,4 @@
-#### Desenvolvedor APEX
+# Desenvolvedor APEX
 Desenvolvedor APEX é um profissional especializado na criação e manutenção de aplicações usando a plataforma Oracle Application Express (APEX). Suas responsabilidades incluem o desenvolvimento de interfaces de usuário, a implementação de lógica de negócios, a integração com bancos de dados Oracle e a criação de relatórios e dashboards interativos. Os desenvolvedores APEX geralmente possuem conhecimento em SQL, PL/SQL e tecnologias web como HTML, CSS e JavaScript, além de experiência específica na utilização das ferramentas e recursos disponíveis no APEX para desenvolvimento rápido e eficiente de aplicações empresariais.
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]()
