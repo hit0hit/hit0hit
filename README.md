@@ -1,4 +1,3 @@
-
 #### Analista de dados
 Estou sempre em busca de novos conhecimentos. Estudo programação desde 2020, desde
 então, venho criando projetos pessoais e profissionais, nos quais acabo pondo em prática
@@ -32,16 +31,16 @@ todos os conhecimentos que adquiro. Atualmente estou focando meus estudos na lin
  
 # Principais Competências<br>
 ❖ SQL, PL/SQL, Expressão, banco de dados ,estrutura de dados.<br>
-Destaco meu sólido domínio em SQL, evidenciando não apenas conhecimento aprofundado, mas também a capacidade de aplicar conceitos de forma prática e eficaz. Além disso, demonstro proficiência em várias técnicas avançadas de manipulação de dados. 
+Destaco meu sólido domínio em SQL, evidenciando não apenas conhecimento aprofundado, mas também a capacidade de aplicar conceitos de forma prática e eficaz. Além disso, demonstro proficiência em várias técnicas avançadas de manipulação de dados.
 <br>
 # Habilidades Adicionais<br>
  C, Python.<br>
-Aprendi o básico da linguagem de programação Python, bem como adquiri experiência prática em C, realizando dois projetos notáveis. Um deles consistiu na apresentação de um seminário, enquanto o outro envolveu a programação completa de um supermercado em linguagem C. 
+Possuo experiência significativa na linguagem de programação Python, além de ter adquirido habilidades práticas em C.
 <br>
 <br>
 java:
 <br>
-Sobre java aprendi o básico como: POO (Programação Orientados a Objetos) Objeto (Object), ArrayList, matriz, vector etc…, 
+Adquiri conhecimentos em Java, com ênfase em Programação Orientada a Objetos (POO) e utilização de estruturas de dados como ArrayList e matrizes. Estou continuamente aprimorando minhas habilidades nessa área, buscando expandir meu conhecimento e aplicá-lo em projetos práticos.
 <br>
 <br>
 lógica de programação:
@@ -49,8 +48,8 @@ lógica de programação:
 Compreendi totalmente a lógica de programação, caso precise de outra linguagem de programação eu aprendo rápido, pois pra mim a maioria das linguagem são iguais.
 <br>
 <br>
- HTML e CSS.<br>
-Estou estudando html e CSS já sei o básico dos dois, ainda não comecei a estudar Js javascript pois quero compreender totalmente o js com html primeiro.
+ HTML, CSS e JS.<br>
+Possuo habilidades sólidas em HTML e CSS, com experiência prática na criação de páginas web responsivas e atraentes. Além disso, estou familiarizado com JavaScript e continuo a explorar suas capacidades para melhorar a interatividade e a experiência do usuário em projetos web.
 <br>
 </div>
 
